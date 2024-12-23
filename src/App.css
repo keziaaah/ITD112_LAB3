@@ -1,0 +1,44 @@
+/* src/App.css */
+.App {
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: calc(10px + 2vmin);
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  h2 {
+    color: #666;
+  }
+  .App {
+    text-align: center;
+    max-width: 1200px;
+    margin: auto;
+    padding: 1rem;
+  }
+  
+  h1, h2, h3 {
+    margin-bottom: 1rem;
+  }
+  
+  section {
+    margin-bottom: 2rem;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+  }
+  

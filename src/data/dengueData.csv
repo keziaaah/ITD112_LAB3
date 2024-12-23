@@ -1,0 +1,254 @@
+loc,cases,deaths,date,region,year
+#adm2+name,#affected+infected,#affected+killed,#date,#region,#year
+albay,0,0,03/01/2021,region v-bicol region,2021
+albay,0,0,10/01/2021,region v-bicol region,2021
+angeles city,19,0,03/01/2021,region iii-central luzon,2021
+angeles city,11,1,10/01/2021,region iii-central luzon,2021
+aurora,1,0,03/01/2021,region iii-central luzon,2021
+aurora,1,0,10/01/2021,region iii-central luzon,2021
+bataan,21,0,03/01/2021,region iii-central luzon,2021
+bataan,8,0,10/01/2021,region iii-central luzon,2021
+batanes,0,0,03/01/2021,region ii-cagayan valley,2021
+batanes,0,0,10/01/2021,region ii-cagayan valley,2021
+batangas,11,0,03/01/2021,region iv-a-calabarzon,2021
+batangas,9,0,10/01/2021,region iv-a-calabarzon,2021
+bulacan,74,1,03/01/2021,region iii-central luzon,2021
+bulacan,37,0,10/01/2021,region iii-central luzon,2021
+cagayan,3,0,03/01/2021,region ii-cagayan valley,2021
+cagayan,1,0,10/01/2021,region ii-cagayan valley,2021
+camarines norte,0,0,03/01/2021,region v-bicol region,2021
+camarines norte,0,0,10/01/2021,region v-bicol region,2021
+camarines sur,5,0,03/01/2021,region v-bicol region,2021
+camarines sur,8,0,10/01/2021,region v-bicol region,2021
+catanduanes,2,0,03/01/2021,region v-bicol region,2021
+catanduanes,2,0,10/01/2021,region v-bicol region,2021
+cavite,47,1,03/01/2021,region iv-a-calabarzon,2021
+cavite,31,0,10/01/2021,region iv-a-calabarzon,2021
+dagupan city,6,0,03/01/2021,region i-ilocos region,2021
+dagupan city,0,0,10/01/2021,region i-ilocos region,2021
+ilocos norte,2,0,03/01/2021,region i-ilocos region,2021
+ilocos norte,1,0,10/01/2021,region i-ilocos region,2021
+ilocos sur,57,0,03/01/2021,region i-ilocos region,2021
+ilocos sur,15,0,10/01/2021,region i-ilocos region,2021
+isabela,2,0,03/01/2021,region ii-cagayan valley,2021
+isabela,1,0,10/01/2021,region ii-cagayan valley,2021
+la union,2,0,03/01/2021,region i-ilocos region,2021
+la union,0,0,10/01/2021,region i-ilocos region,2021
+laguna,15,0,03/01/2021,region iv-a-calabarzon,2021
+laguna,21,0,10/01/2021,region iv-a-calabarzon,2021
+lucena city,0,0,03/01/2021,region iv-a-calabarzon,2021
+lucena city,0,0,10/01/2021,region iv-a-calabarzon,2021
+marinduque,2,0,03/01/2021,region ivb-mimaropa,2021
+marinduque,0,0,10/01/2021,region ivb-mimaropa,2021
+masbate,1,0,03/01/2021,region v-bicol region,2021
+masbate,2,0,10/01/2021,region v-bicol region,2021
+naga city,0,0,03/01/2021,region v-bicol region,2021
+naga city,3,0,10/01/2021,region v-bicol region,2021
+nueva ecija,150,0,03/01/2021,region iii-central luzon,2021
+nueva ecija,92,0,10/01/2021,region iii-central luzon,2021
+nueva viscaya,0,0,03/01/2021,region ii-cagayan valley,2021
+nueva viscaya,0,0,10/01/2021,region ii-cagayan valley,2021
+occidental mindoro,0,0,03/01/2021,region ivb-mimaropa,2021
+occidental mindoro,0,0,10/01/2021,region ivb-mimaropa,2021
+olongapo city,1,0,03/01/2021,region iii-central luzon,2021
+olongapo city,0,0,10/01/2021,region iii-central luzon,2021
+oriental mindoro,6,0,03/01/2021,region ivb-mimaropa,2021
+oriental mindoro,5,0,10/01/2021,region ivb-mimaropa,2021
+palawan,0,0,03/01/2021,region ivb-mimaropa,2021
+palawan,1,0,10/01/2021,region ivb-mimaropa,2021
+pampanga,207,0,03/01/2021,region iii-central luzon,2021
+pampanga,184,0,10/01/2021,region iii-central luzon,2021
+pangasinan,134,0,03/01/2021,region i-ilocos region,2021
+pangasinan,29,0,10/01/2021,region i-ilocos region,2021
+puerto princesa city,14,0,03/01/2021,region ivb-mimaropa,2021
+puerto princesa city,3,0,10/01/2021,region ivb-mimaropa,2021
+quezon,1,0,03/01/2021,region iv-a-calabarzon,2021
+quezon,1,0,10/01/2021,region iv-a-calabarzon,2021
+quirino,7,0,03/01/2021,region ii-cagayan valley,2021
+quirino,2,0,10/01/2021,region ii-cagayan valley,2021
+rizal,5,0,03/01/2021,region iv-a-calabarzon,2021
+rizal,7,0,10/01/2021,region iv-a-calabarzon,2021
+romblon,7,1,03/01/2021,region ivb-mimaropa,2021
+romblon,0,0,10/01/2021,region ivb-mimaropa,2021
+santiago city,1,0,03/01/2021,region ii-cagayan valley,2021
+santiago city,0,0,10/01/2021,region ii-cagayan valley,2021
+sorsogon,2,0,03/01/2021,region v-bicol region,2021
+sorsogon,3,0,10/01/2021,region v-bicol region,2021
+tarlac,158,1,03/01/2021,region iii-central luzon,2021
+tarlac,115,0,10/01/2021,region iii-central luzon,2021
+zambales,7,0,03/01/2021,region iii-central luzon,2021
+zambales,8,0,10/01/2021,region iii-central luzon,2021
+aklan,1,0,03/01/2021,region vi-western visayas,2021
+aklan,0,0,10/01/2021,region vi-western visayas,2021
+antique,12,0,03/01/2021,region vi-western visayas,2021
+antique,4,0,10/01/2021,region vi-western visayas,2021
+bacolod city,1,0,03/01/2021,region vi-western visayas,2021
+bacolod city,2,0,10/01/2021,region vi-western visayas,2021
+capiz,3,0,03/01/2021,region vi-western visayas,2021
+capiz,1,0,10/01/2021,region vi-western visayas,2021
+guimaras,0,0,03/01/2021,region vi-western visayas,2021
+guimaras,0,0,10/01/2021,region vi-western visayas,2021
+iloilo,11,0,03/01/2021,region vi-western visayas,2021
+iloilo,2,0,10/01/2021,region vi-western visayas,2021
+iloilo city,2,0,03/01/2021,region vi-western visayas,2021
+iloilo city,0,0,10/01/2021,region vi-western visayas,2021
+negros occidental,1,0,03/01/2021,region vi-western visayas,2021
+negros occidental,0,0,10/01/2021,region vi-western visayas,2021
+bohol,7,0,03/01/2021,region vii-central visayas,2021
+bohol,0,0,10/01/2021,region vii-central visayas,2021
+cebu,13,0,03/01/2021,region vii-central visayas,2021
+cebu,2,0,10/01/2021,region vii-central visayas,2021
+cebu city,1,0,03/01/2021,region vii-central visayas,2021
+cebu city,0,0,10/01/2021,region vii-central visayas,2021
+lapu-lapu city,0,0,03/01/2021,region vii-central visayas,2021
+lapu-lapu city,0,0,10/01/2021,region vii-central visayas,2021
+mandaue city,0,0,03/01/2021,region vii-central visayas,2021
+mandaue city,0,0,10/01/2021,region vii-central visayas,2021
+ negros oriental,7,0,03/01/2021,region vii-central visayas,2021
+ negros oriental,0,0,10/01/2021,region vii-central visayas,2021
+sisquijor,6,0,03/01/2021,region vii-central visayas,2021
+sisquijor,7,0,10/01/2021,region vii-central visayas,2021
+biliran,0,0,03/01/2021,region vii-eastern visayas,2021
+biliran,0,0,10/01/2021,region vii-eastern visayas,2021
+eastern samar,0,0,03/01/2021,region vii-eastern visayas,2021
+eastern samar,0,0,10/01/2021,region vii-eastern visayas,2021
+leyte,2,0,03/01/2021,region vii-eastern visayas,2021
+leyte,0,0,10/01/2021,region vii-eastern visayas,2021
+northern samar,0,0,03/01/2021,region vii-eastern visayas,2021
+northern samar,0,0,10/01/2021,region vii-eastern visayas,2021
+ormoc city,0,0,03/01/2021,region vii-eastern visayas,2021
+ormoc city,0,0,10/01/2021,region vii-eastern visayas,2021
+samar,0,0,03/01/2021,region vii-eastern visayas,2021
+samar,0,0,10/01/2021,region vii-eastern visayas,2021
+southern leyte,0,0,03/01/2021,region vii-eastern visayas,2021
+southern leyte,0,0,10/01/2021,region vii-eastern visayas,2021
+tacloban,2,0,03/01/2021,region vii-eastern visayas,2021
+tacloban,3,0,10/01/2021,region vii-eastern visayas,2021
+isabela city,0,0,03/01/2021,region ix-zamboanga peninsula,2021
+isabela city,0,0,10/01/2021,region ix-zamboanga peninsula,2021
+zamboanga city,2,0,03/01/2021,region ix-zamboanga peninsula,2021
+zamboanga city,2,0,10/01/2021,region ix-zamboanga peninsula,2021
+zamboanga del norte,4,0,03/01/2021,region ix-zamboanga peninsula,2021
+zamboanga del norte,2,0,10/01/2021,region ix-zamboanga peninsula,2021
+zamboanga del sur,2,0,03/01/2021,region ix-zamboanga peninsula,2021
+zamboanga del sur,0,0,10/01/2021,region ix-zamboanga peninsula,2021
+zamboanga sibugay,0,0,03/01/2021,region ix-zamboanga peninsula,2021
+zamboanga sibugay,1,0,10/01/2021,region ix-zamboanga peninsula,2021
+bukidnon,5,0,03/01/2021,region x-northern mindanao,2021
+bukidnon,7,0,10/01/2021,region x-northern mindanao,2021
+ cagayan de oro city,12,0,03/01/2021,region x-northern mindanao,2021
+ cagayan de oro city,6,0,10/01/2021,region x-northern mindanao,2021
+camiguin,0,0,03/01/2021,region x-northern mindanao,2021
+camiguin,0,0,10/01/2021,region x-northern mindanao,2021
+iligan city,11,0,03/01/2021,region x-northern mindanao,2021
+iligan city,6,0,10/01/2021,region x-northern mindanao,2021
+lanao del norte,2,0,03/01/2021,region x-northern mindanao,2021
+lanao del norte,2,0,10/01/2021,region x-northern mindanao,2021
+misamis occidental,13,0,03/01/2021,region x-northern mindanao,2021
+misamis occidental,13,0,10/01/2021,region x-northern mindanao,2021
+misamis oriental,6,0,03/01/2021,region x-northern mindanao,2021
+misamis oriental,8,0,10/01/2021,region x-northern mindanao,2021
+davao city,15,0,03/01/2021,region xi-davao region,2021
+davao city,10,0,10/01/2021,region xi-davao region,2021
+davao de oro,5,0,03/01/2021,region xi-davao region,2021
+davao de oro,1,0,10/01/2021,region xi-davao region,2021
+davao del norte,2,0,03/01/2021,region xi-davao region,2021
+davao del norte,0,0,10/01/2021,region xi-davao region,2021
+davao del sur,0,0,03/01/2021,region xi-davao region,2021
+davao del sur,0,0,10/01/2021,region xi-davao region,2021
+davao occidental,0,0,03/01/2021,region xi-davao region,2021
+davao occidental,1,0,10/01/2021,region xi-davao region,2021
+davao oriental,5,0,03/01/2021,region xi-davao region,2021
+davao oriental,3,0,10/01/2021,region xi-davao region,2021
+abra,0,0,03/01/2021,car,2021
+abra,0,0,10/01/2021,car,2021
+agusan del norte,0,0,03/01/2021,caraga,2021
+agusan del norte,0,0,10/01/2021,caraga,2021
+agusan del sur,3,0,03/01/2021,caraga,2021
+agusan del sur,0,0,10/01/2021,caraga,2021
+apayao,2,0,03/01/2021,car,2021
+apayao,1,0,10/01/2021,car,2021
+baguio city,1,0,03/01/2021,car,2021
+baguio city,0,0,10/01/2021,car,2021
+basilan,1,0,03/01/2021,barmm,2021
+basilan,0,0,10/01/2021,barmm,2021
+basilig city,0,0,03/01/2021,caraga,2021
+basilig city,0,0,10/01/2021,caraga,2021
+bayugan city,0,0,03/01/2021,caraga,2021
+bayugan city,0,0,10/01/2021,caraga,2021
+benguet,13,0,03/01/2021,car,2021
+benguet,0,0,10/01/2021,car,2021
+butuan city,0,0,03/01/2021,caraga,2021
+butuan city,0,0,10/01/2021,caraga,2021
+cabadbaran city,2,0,03/01/2021,caraga,2021
+cabadbaran city,1,0,10/01/2021,caraga,2021
+caloocan city,7,0,03/01/2021,national capital region,2021
+caloocan city,5,0,10/01/2021,national capital region,2021
+cotabato city,4,0,03/01/2021,region xii-soccsksargen,2021
+cotabato city,1,0,10/01/2021,region xii-soccsksargen,2021
+dinagat islands,0,0,03/01/2021,caraga,2021
+dinagat islands,0,0,10/01/2021,caraga,2021
+general santos city,15,1,03/01/2021,region xii-soccsksargen,2021
+general santos city,7,0,10/01/2021,region xii-soccsksargen,2021
+ifugao,2,0,03/01/2021,car,2021
+ifugao,1,0,10/01/2021,car,2021
+kalinga,5,0,03/01/2021,car,2021
+kalinga,0,0,10/01/2021,car,2021
+lanao del sur,0,0,03/01/2021,barmm,2021
+lanao del sur,0,0,10/01/2021,barmm,2021
+las pinas city,2,1,03/01/2021,national capital region,2021
+las pinas city,1,0,10/01/2021,national capital region,2021
+maguindanao,2,0,03/01/2021,barmm,2021
+maguindanao,0,0,10/01/2021,barmm,2021
+makati city,5,0,03/01/2021,national capital region,2021
+makati city,0,0,10/01/2021,national capital region,2021
+malabon city,3,0,03/01/2021,national capital region,2021
+malabon city,3,0,10/01/2021,national capital region,2021
+mandaluyong city,0,0,03/01/2021,national capital region,2021
+mandaluyong city,3,0,10/01/2021,national capital region,2021
+manila city,21,0,03/01/2021,national capital region,2021
+manila city,13,0,10/01/2021,national capital region,2021
+marikina city,3,0,03/01/2021,national capital region,2021
+marikina city,2,0,10/01/2021,national capital region,2021
+mountain province,1,0,03/01/2021,car,2021
+mountain province,0,0,10/01/2021,car,2021
+muntinlupa city,0,0,03/01/2021,national capital region,2021
+muntinlupa city,0,0,10/01/2021,national capital region,2021
+navotas city,1,0,03/01/2021,national capital region,2021
+navotas city,1,0,10/01/2021,national capital region,2021
+north cotabato,1,0,03/01/2021,region xii-soccsksargen,2021
+north cotabato,1,0,10/01/2021,region xii-soccsksargen,2021
+paranaque city,10,0,03/01/2021,national capital region,2021
+paranaque city,8,0,10/01/2021,national capital region,2021
+pasay city,2,0,03/01/2021,national capital region,2021
+pasay city,2,0,10/01/2021,national capital region,2021
+pasig city,19,0,03/01/2021,national capital region,2021
+pasig city,11,0,10/01/2021,national capital region,2021
+pateros,0,0,03/01/2021,national capital region,2021
+pateros,1,0,10/01/2021,national capital region,2021
+quezon city,20,0,03/01/2021,national capital region,2021
+quezon city,14,0,10/01/2021,national capital region,2021
+san juan city,1,0,03/01/2021,national capital region,2021
+san juan city,1,0,10/01/2021,national capital region,2021
+sarangani,0,0,03/01/2021,region xii-soccsksargen,2021
+sarangani,0,0,10/01/2021,region xii-soccsksargen,2021
+south cotabato,14,0,03/01/2021,region xii-soccsksargen,2021
+south cotabato,12,1,10/01/2021,region xii-soccsksargen,2021
+sultan kudarat,2,0,03/01/2021,region xii-soccsksargen,2021
+sultan kudarat,1,0,10/01/2021,region xii-soccsksargen,2021
+sulu,0,0,03/01/2021,barmm,2021
+sulu,0,0,10/01/2021,barmm,2021
+surigao city,0,0,03/01/2021,caraga,2021
+surigao city,0,0,10/01/2021,caraga,2021
+surigao del norte,0,0,03/01/2021,caraga,2021
+surigao del norte,0,0,10/01/2021,caraga,2021
+surigao del sur,2,0,03/01/2021,caraga,2021
+surigao del sur,0,0,10/01/2021,caraga,2021
+taguig city,6,0,03/01/2021,national capital region,2021
+taguig city,3,0,10/01/2021,national capital region,2021
+tandag city,2,0,03/01/2021,caraga,2021
+tandag city,2,0,10/01/2021,caraga,2021
+tawi-tawi,0,0,03/01/2021,barmm,2021
+tawi-tawi,0,0,10/01/2021,barmm,2021
+valenzuela city,8,0,03/01/2021,national capital region,2021
+valenzuela city,5,0,10/01/2021,national capital region,2021
